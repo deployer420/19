@@ -8,7 +8,7 @@
   },
   "NFT_NAME": "Twisted Minds Paradox",
   "SYMBOL": "MIND",
-  "MAX_SUPPLY": 888,
+  "MAX_SUPPLY": 1888,
   "WEI_COST": 25000000000000000,
   "DISPLAY_COST": 0.025000000,
   "GAS_LIMIT": 160000,
