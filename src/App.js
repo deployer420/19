@@ -288,31 +288,10 @@ function App() {
             <s.SpacerLarge />
 
             <s.TextTitle>
-              Public mint time: 5:30 PM UTC 23/12/2023
-            </s.TextTitle>
-
-            <s.TextTitle>
-              Time until mint:
+              MINT LIVE
             </s.TextTitle>
 
 
-            <s.TextDescription
-              style={{
-                textAlign: "center",
-                fontSize: 50,
-                fontWeight: "bold",
-                color: "var(--accent-text)",
-              }}
-            >
-              {truncate(
-                new Date(timeRemaining).toLocaleString("en-GB", {
-                  hour: "numeric",
-                  minute: "numeric",
-                  second: "numeric",
-                }),
-                10
-              )}
-            </s.TextDescription>
 
 
             <s.TextTitle>
