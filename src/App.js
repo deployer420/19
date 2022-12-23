@@ -288,7 +288,7 @@ function App() {
             <s.SpacerLarge />
 
             <s.TextTitle>
-              Public mint time: 4 PM UTC 23/12/2023
+              Public mint time: 5 PM UTC 23/12/2023
             </s.TextTitle>
 
             <s.TextTitle>
