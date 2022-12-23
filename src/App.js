@@ -282,7 +282,7 @@ function App() {
                 color: "var(--accent-text)",
               }}
             >
-              CONVOLUTION
+              CONVOLUTION is here
             </s.TextDescription>
             <s.SpacerLarge />
             <s.SpacerLarge />
